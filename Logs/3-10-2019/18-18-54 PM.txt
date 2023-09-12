@@ -1,0 +1,25 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 10.0.18362.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.3.1.0 - Free
+[Trace]   PluginFactory         Created plugin 'CompatibilityBichannelListener'.
+[Trace]   DefaultNetworkListener Starting compatibility listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 8080.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:3217.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:60795.
+[Info]    ClientManager         New client [0] connected [192.168.1.194:3217|192.168.1.194:60795].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:3226.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:62018.
+[Info]    ClientManager         New client [1] connected [192.168.1.194:3226|192.168.1.194:62018].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:3238.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:50474.
+[Info]    ClientManager         New client [2] connected [192.168.1.194:3238|192.168.1.194:50474].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:3250.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:52527.
+[Info]    ClientManager         New client [3] connected [192.168.1.194:3250|192.168.1.194:52527].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:3256.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:54435.
+[Info]    ClientManager         New client [4] connected [192.168.1.194:3256|192.168.1.194:54435].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:3264.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:64779.
+[Info]    ClientManager         New client [5] connected [192.168.1.194:3264|192.168.1.194:64779].

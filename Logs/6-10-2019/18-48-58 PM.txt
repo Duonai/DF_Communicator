@@ -1,0 +1,19 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 10.0.18362.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.3.1.0 - Free
+[Trace]   PluginFactory         Created plugin 'CompatibilityBichannelListener'.
+[Trace]   DefaultNetworkListener Starting compatibility listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 8080.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:11097.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:50464.
+[Info]    ClientManager         New client [0] connected [192.168.1.194:11097|192.168.1.194:50464].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:11111.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:55122.
+[Info]    ClientManager         New client [1] connected [192.168.1.194:11111|192.168.1.194:55122].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:11121.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:63211.
+[Info]    ClientManager         New client [2] connected [192.168.1.194:11121|192.168.1.194:63211].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:11145.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:59750.
+[Info]    ClientManager         New client [3] connected [192.168.1.194:11145|192.168.1.194:59750].

@@ -1,0 +1,49 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 10.0.18362.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.3.1.0 - Free
+[Trace]   PluginFactory         Created plugin 'CompatibilityBichannelListener'.
+[Trace]   DefaultNetworkListener Starting compatibility listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 8080.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.107:8446.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.107:52308.
+[Info]    ClientManager         New client [0] connected [192.168.1.107:8446|192.168.1.107:52308].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.107:8497.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.107:51253.
+[Info]    ClientManager         New client [1] connected [192.168.1.107:8497|192.168.1.107:51253].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.107:8504.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.107:56799.
+[Info]    ClientManager         New client [2] connected [192.168.1.107:8504|192.168.1.107:56799].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.107:8573.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.107:52830.
+[Info]    ClientManager         New client [3] connected [192.168.1.107:8573|192.168.1.107:52830].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.107:8601.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.107:54826.
+[Info]    ClientManager         New client [4] connected [192.168.1.107:8601|192.168.1.107:54826].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.107:8627.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.107:65381.
+[Info]    ClientManager         New client [5] connected [192.168.1.107:8627|192.168.1.107:65381].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.107:8641.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.107:56699.
+[Info]    ClientManager         New client [6] connected [192.168.1.107:8641|192.168.1.107:56699].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.107:8655.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.107:64547.
+[Info]    ClientManager         New client [7] connected [192.168.1.107:8655|192.168.1.107:64547].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.107:8677.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.107:57970.
+[Info]    ClientManager         New client [8] connected [192.168.1.107:8677|192.168.1.107:57970].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.107:8691.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.107:54925.
+[Info]    ClientManager         New client [9] connected [192.168.1.107:8691|192.168.1.107:54925].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.107:8702.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.107:52689.
+[Info]    ClientManager         New client [10] connected [192.168.1.107:8702|192.168.1.107:52689].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.107:8712.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.107:62583.
+[Info]    ClientManager         New client [11] connected [192.168.1.107:8712|192.168.1.107:62583].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.107:8726.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.107:54287.
+[Info]    ClientManager         New client [12] connected [192.168.1.107:8726|192.168.1.107:54287].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.107:8758.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.107:56585.
+[Info]    ClientManager         New client [13] connected [192.168.1.107:8758|192.168.1.107:56585].

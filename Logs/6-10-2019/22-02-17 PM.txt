@@ -1,0 +1,25 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 10.0.18362.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.3.1.0 - Free
+[Trace]   PluginFactory         Created plugin 'CompatibilityBichannelListener'.
+[Trace]   DefaultNetworkListener Starting compatibility listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 8080.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:12157.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:57135.
+[Info]    ClientManager         New client [0] connected [192.168.1.194:12157|192.168.1.194:57135].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:12164.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:57136.
+[Info]    ClientManager         New client [1] connected [192.168.1.194:12164|192.168.1.194:57136].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:12216.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:50632.
+[Info]    ClientManager         New client [2] connected [192.168.1.194:12216|192.168.1.194:50632].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:12247.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:65188.
+[Info]    ClientManager         New client [3] connected [192.168.1.194:12247|192.168.1.194:65188].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:12255.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:60960.
+[Info]    ClientManager         New client [4] connected [192.168.1.194:12255|192.168.1.194:60960].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:12262.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:61978.
+[Info]    ClientManager         New client [5] connected [192.168.1.194:12262|192.168.1.194:61978].

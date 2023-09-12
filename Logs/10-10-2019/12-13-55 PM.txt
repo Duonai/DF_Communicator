@@ -1,0 +1,43 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 10.0.18362.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.3.1.0 - Free
+[Trace]   PluginFactory         Created plugin 'CompatibilityBichannelListener'.
+[Trace]   DefaultNetworkListener Starting compatibility listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 8080.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:2085.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:54103.
+[Info]    ClientManager         New client [0] connected [192.168.1.194:2085|192.168.1.194:54103].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:2090.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:54419.
+[Info]    ClientManager         New client [1] connected [192.168.1.194:2090|192.168.1.194:54419].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:2149.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:62621.
+[Info]    ClientManager         New client [2] connected [192.168.1.194:2149|192.168.1.194:62621].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:2159.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:59745.
+[Info]    ClientManager         New client [3] connected [192.168.1.194:2159|192.168.1.194:59745].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:2174.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:57359.
+[Info]    ClientManager         New client [4] connected [192.168.1.194:2174|192.168.1.194:57359].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:2213.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:53396.
+[Info]    ClientManager         New client [5] connected [192.168.1.194:2213|192.168.1.194:53396].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:2261.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:63639.
+[Info]    ClientManager         New client [6] connected [192.168.1.194:2261|192.168.1.194:63639].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:2270.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:49242.
+[Info]    ClientManager         New client [7] connected [192.168.1.194:2270|192.168.1.194:49242].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:2291.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:53666.
+[Info]    ClientManager         New client [8] connected [192.168.1.194:2291|192.168.1.194:53666].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:2298.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:50309.
+[Info]    ClientManager         New client [9] connected [192.168.1.194:2298|192.168.1.194:50309].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:2325.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:64229.
+[Info]    ClientManager         New client [10] connected [192.168.1.194:2325|192.168.1.194:64229].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 192.168.1.194:2340.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 192.168.1.194:52808.
+[Info]    ClientManager         New client [11] connected [192.168.1.194:2340|192.168.1.194:52808].

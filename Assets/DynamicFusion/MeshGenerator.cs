@@ -145,7 +145,7 @@ public class MeshGenerator : MonoBehaviour
         GetComponent<MeshRenderer>().material.SetFloat("_Glossiness", .0f);
 
         unlitShader = Shader.Find("Unlit/Texture");
-        standardShader = Shader.Find("Custom/StencilWrite");
+        standardShader = Shader.Find("Custom/InvisibleObject");
         normalShader = Shader.Find("Unlit/WorldSpaceNormals");
         GetComponent<MeshRenderer>().material.shader = standardShader;
 
